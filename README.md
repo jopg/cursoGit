@@ -1,0 +1,2 @@
+# cursoGit
+Practices in Git
